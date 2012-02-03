@@ -1,5 +1,3 @@
-//= require ./app.js
-
 (function() {
 
   Zendesk.Apps.NavBarApp = Zendesk.Apps.App.extend({
