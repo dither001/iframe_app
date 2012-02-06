@@ -2,8 +2,8 @@
 
 (function() {
 
-  Zendesk.Apps.NavBarApp = Zendesk.Apps.App.extend({
-    location: Zendesk.Apps.Site.NAV_BAR,
+  ZendeskApps.NavBarApp = ZendeskApps.App.extend({
+    location: ZendeskApps.Site.NAV_BAR,
     appID: '/apps/01-nav_bar/versions/1.0.0',
     eventuallyEvents: {
       'click a': '',
