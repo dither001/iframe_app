@@ -1,3 +1,26 @@
 {
-  "name": "Nav Bar"
+  "name": "Nav Bar",
+
+  "configuration": {
+    "name": {
+      "required": true
+    },
+
+    "iframeURL": {
+      "type": "url",
+      "required": true
+    },
+
+    "inactiveIconURL": {
+      "type": "url"
+    },
+
+    "hoverIconURL": {
+      "type": "url"
+    },
+
+    "selectedIconURL": {
+      "type": "url"
+    }
+  }
 }
