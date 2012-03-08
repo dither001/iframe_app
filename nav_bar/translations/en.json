@@ -1,3 +1,11 @@
 {
-  "description": "Lets you add an iframe to Lotus. Great for giving agents quick access to external information like order history."
+  "description": "Lets you add an iframe to Lotus. Great for giving agents quick access to external information like order history.",
+
+  "configuration": {
+    "name": { "label": "Name" },
+    "iframeURL": { "label": "iframe URL" },
+    "inactiveIconURL": { "label": "Inactive Icon URL" },
+    "hoverIconURL": { "label": "Hover Icon URL" },
+    "selectedIconURL": { "label": "Selected Icon URL" }
+  }
 }
