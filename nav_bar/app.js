@@ -22,21 +22,21 @@
       'mouseover %inactive': '%hover',
       'mouseout  %hover':    '%inactive',
       paneswitch: function(event, newPane) {
-        if (newPane !== this.config.name) {
+        if (newPane !== this.settings.name) {
           this.showSheet('inactive');
         } else {
           this.showSheet('selected');
         }
       },
       click: function() {
-        this.host.goToPath('apps/%@'.fmt(this.config.name));
+        this.host.goToPath('apps/%@'.fmt(this.settings.name));
         this.showSheet('selected');
       }
     },
 
-    launch: function(host, config) {
+    launch: function(host, settings) {
 
-      var context = $.extend({}, config, {
+      var context = $.extend({}, settings, {
         template: this.template('iframe'),
         classNames: 'custom'
       });
