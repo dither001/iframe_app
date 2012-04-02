@@ -1,7 +1,6 @@
 (function() {
 
-  return ZendeskApps.App.extend({
-    location: ZendeskApps.Site.NAV_BAR,
+  return ZendeskApps.defineApp(ZendeskApps.Site.NAV_BAR, {
     appID: '/apps/01-nav_bar/versions/1.0.0',
     eventuallyEvents: {
       'click a': '',
