@@ -33,12 +33,12 @@
 
     launch: function(host, settings) {
 
-      var context = $.extend({}, settings, {
+      var context = _.extend({}, settings, {
         template: this.template('iframe'),
         classNames: 'custom'
       });
 
-      var paneContext = $.extend({}, context);
+      var paneContext = _.extend({}, context);
 
       host.addPane(paneContext);
     }
