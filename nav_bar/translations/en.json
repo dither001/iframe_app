@@ -8,7 +8,7 @@
       "selectedIconURL":  { "label": "Selected Icon URL" }
     },
 
-    "description":  "Lets you add an iframe to Lotus. Great for giving agents quick access to external information like order history.",
-    "name":         "Nav Bar"
+    "description":  "Add a custom icon to the sidebar & embed any website",
+    "name":         "Sidebar Icon"
   }
 }
