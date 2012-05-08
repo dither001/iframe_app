@@ -1,5 +1,5 @@
 {
-  "name": "Nav Bar",
+  "default_locale": "en",
 
   "configuration": {
     "iframeURL": {

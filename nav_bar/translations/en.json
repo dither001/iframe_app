@@ -1,7 +1,6 @@
 {
   "app": {
     "configuration": {
-      "name":             { "label": "Name" },
       "iframeURL":        { "label": "iframe URL" },
       "inactiveIconURL":  { "label": "Inactive Icon URL" },
       "hoverIconURL":     { "label": "Hover Icon URL" },
