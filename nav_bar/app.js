@@ -8,13 +8,6 @@
     },
     defaultSheet: 'inactive',
 
-    templates: {
-      main: '<img src="{{hoverIconURL}}" title="{{I18n.app.name}}" data-sheet-name="hover" />' +
-            '<img src="{{inactiveIconURL}}" title="{{I18n.app.name}}" data-sheet-name="inactive" />' +
-            '<img src="{{selectedIconURL}}" title="{{I18n.app.name}}" data-sheet-name="selected" />',
-      iframe: '<header><h1>{{name}}</h1></header><iframe src="{{iframeURL}}" class="pane"/>'
-    },
-
     events: {
       'mouseover %inactive': '%hover',
       'mouseout  %hover':    '%inactive',
