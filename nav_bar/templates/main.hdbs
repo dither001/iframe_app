@@ -1,3 +1,0 @@
-<img src="{{hoverIconURL}}" title="{{I18n.app.name}}" data-sheet-name="hover" />
-<img src="{{inactiveIconURL}}" title="{{I18n.app.name}}" data-sheet-name="inactive" />
-<img src="{{selectedIconURL}}" title="{{I18n.app.name}}" data-sheet-name="selected" />

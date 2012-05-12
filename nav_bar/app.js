@@ -6,21 +6,21 @@
       'click a': '',
       'keyup(ESCAPE) @form': 'formCancelled'
     },
-    defaultSheet: 'inactive',
+    defaultState: 'inactive',
 
     events: {
       'mouseover %inactive': '%hover',
       'mouseout  %hover':    '%inactive',
       paneswitch: function(event, newPane) {
         if (newPane !== this.settings.name) {
-          this.showSheet('inactive');
+          this.switchTo('inactive');
         } else {
-          this.showSheet('selected');
+          this.switchTo('selected');
         }
       },
       click: function() {
-        this.host.goToPath('apps/%@'.fmt(this.settings.name));
-        this.showSheet('selected');
+        this.host.goToPath(helpers.fmt('apps/%@', this.settings.name));
+        this.switchTo('selected');
       }
     },
 

@@ -1,0 +1,1 @@
+<img src="{{selectedIconURL}}" title="{{t "app.name"}}" />
