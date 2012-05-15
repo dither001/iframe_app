@@ -1,1 +1,1 @@
-<img src="{{inactiveIconURL}}" title="{{t "app.name"}}" />
+<img src="{{setting "inactiveIconURL"}}" title="{{setting "name"}}" />

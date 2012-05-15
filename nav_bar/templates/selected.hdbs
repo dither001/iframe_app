@@ -1,1 +1,1 @@
-<img src="{{selectedIconURL}}" title="{{t "app.name"}}" />
+<img src="{{setting "selectedIconURL"}}" title="{{setting "name"}}" />

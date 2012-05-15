@@ -1,1 +1,1 @@
-<img src="{{hoverIconURL}}" title="{{t "app.name"}}" />
+<img src="{{setting "hoverIconURL"}}" title="{{setting "name"}}" />
