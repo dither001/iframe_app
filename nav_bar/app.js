@@ -21,15 +21,8 @@
     },
 
     launch: function(host, settings) {
-
-      var context = _.extend({}, settings, {
-        template: this.template('iframe'),
-        classNames: 'custom'
-      });
-
-      var paneContext = _.extend({}, context);
-
-      host.addPane(paneContext);
+      host.addPane(settings.name,
+                   this.renderTemplate('iframe'), {name: settings.name});
     }
   });
 
