@@ -1,6 +1,6 @@
 (function() {
 
-  return ZendeskApps.defineApp(ZendeskApps.Site.NAV_BAR, {
+  return ZendeskApps.defineApp({
     appID: '/apps/01-nav_bar/versions/1.0.0',
     defaultState: 'inactive',
 
