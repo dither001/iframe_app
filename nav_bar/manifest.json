@@ -8,22 +8,26 @@
   "default_locale": "en",
   "private": false,
 
-  "configuration": {
-    "iframeURL": {
+  "parameters": [
+    {
+      "name": "iframeURL",
       "type": "url",
       "required": true
     },
 
-    "inactiveIconURL": {
+    {
+      "name": "inactiveIconURL",
       "type": "url"
     },
 
-    "hoverIconURL": {
+    {
+      "name": "hoverIconURL",
       "type": "url"
     },
 
-    "selectedIconURL": {
+    {
+      "name": "selectedIconURL",
       "type": "url"
     }
-  }
+  ]
 }

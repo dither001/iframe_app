@@ -1,6 +1,6 @@
 {
   "app": {
-    "configuration": {
+    "parameters": {
       "iframeURL":        { "label": "iframe URL" },
       "inactiveIconURL":  { "label": "Inactive Icon URL" },
       "hoverIconURL":     { "label": "Hover Icon URL" },
