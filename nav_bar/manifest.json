@@ -7,6 +7,7 @@
   "location": "nav_bar",
   "default_locale": "en",
   "private": false,
+  "frameworkVersion": "0.5",
 
   "parameters": [
     {
