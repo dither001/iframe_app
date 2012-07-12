@@ -1,7 +1,6 @@
 (function() {
 
   return {
-    appID: '/apps/01-nav_bar/versions/1.0.0',
     defaultState: 'inactive',
 
     events: {
