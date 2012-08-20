@@ -7,7 +7,6 @@
       "selectedIconURL":  { "label": "Selected Icon URL" }
     },
 
-    "description":  "Add a custom icon to the sidebar & embed any website",
-    "name":         "Sidebar Icon"
+    "description":  "Add a custom icon to the sidebar & embed any website"
   }
 }
