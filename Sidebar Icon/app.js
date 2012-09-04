@@ -4,6 +4,8 @@
     defaultState: 'inactive',
 
     events: {
+      'app.activated': 'renderIframe',
+
       'mouseover %inactive': '%hover',
       'mouseout  %hover':    '%inactive',
       paneswitch: function(event, newPane) {
@@ -19,9 +21,9 @@
       }
     },
 
-    launch: function(host, settings) {
-      host.addPane(settings.name,
-                   this.renderTemplate('iframe'), {name: settings.name});
+    renderIframe: function() {
+      this.host.addPane(this.settings.name,
+                   this.renderTemplate('iframe'), { name: this.settings.name });
     }
   };
 
