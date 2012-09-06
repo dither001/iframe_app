@@ -1,1 +1,1 @@
-<img src="{{setting "inactiveIconURL"}}" title="{{setting "name"}}" />
+<img src="{{setting "inactiveIconURL"}}" title="{{setting "title"}}" />
