@@ -1,1 +1,1 @@
-<header><h1>{{setting "title"}}</h1></header><iframe src="{{setting "iframeURL"}}" class="pane"/>
+<header><h1>{{setting "title"}}</h1></header><div class="pane" style="overflow-y: hidden;"><iframe src="{{setting "iframeURL"}}"/></div>
