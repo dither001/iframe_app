@@ -4,7 +4,7 @@
     defaultState: 'inactive',
 
     events: {
-      'app.activated': 'renderIframe',
+      'app.activated': 'appActivated',
 
       'mouseover %inactive': '%hover',
       'mouseout  %hover':    '%inactive',
@@ -21,7 +21,11 @@
       }
     },
 
-    renderIframe: function() {
+    appActivated: function(data) {
+      if ( data && data.firstLoad ) { this.addIframeToDOM(); }
+    },
+
+    addIframeToDOM: function() {
       this.host.addPane(this.setting('title'),
                    this.renderTemplate('iframe'), { name: this.setting('title') });
     }
