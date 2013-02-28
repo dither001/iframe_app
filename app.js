@@ -3,9 +3,10 @@
   return {
     defaultState: 'inactive',
 
-    events: {
-      'app.activated': 'appActivated',
+    // Local vars
+    iframeIsInDOM: false,
 
+    events: {
       'mouseover %inactive': '%hover',
       'mouseout  %hover':    '%inactive',
       paneswitch: function(event, newPane) {
@@ -16,18 +17,21 @@
         }
       },
       click: function() {
-        this.host.goToPath(helpers.fmt( 'apps/%@', this.setting('title') ));
+        if (!this.iframeIsInDOM) { this.addIframeToDOM(); }
+        this.host.goToPath(helpers.fmt( 'apps/%@', this.generateTitle() ));
         this.switchTo('selected');
       }
     },
 
-    appActivated: function(data) {
-      if ( data && data.firstLoad ) { this.addIframeToDOM(); }
+    generateTitle: function() {
+      return this.setting('title').toLowerCase().split(' ').join('-');
     },
 
     addIframeToDOM: function() {
-      this.host.addPane(this.setting('title'),
-                   this.renderTemplate('iframe'), { name: this.setting('title') });
+      this.host.addPane(this.generateTitle(),
+        this.renderTemplate('iframe'), { name: this.generateTitle() });
+
+      this.iframeIsInDOM = true;
     }
   };
 
