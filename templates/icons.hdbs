@@ -1,0 +1,3 @@
+<img src="{{setting "inactiveIconURL"}}" title="{{setting "title"}}" class="inactive" />
+<img src="{{setting "hoverIconURL"}}" title="{{setting "title"}}" style="display: none;" class="hover" />
+<img src="{{setting "selectedIconURL"}}" title="{{setting "title"}}" style="display: none;" class="selected" />
