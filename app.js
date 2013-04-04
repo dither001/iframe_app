@@ -7,8 +7,8 @@
     iframeIsInDOM: false,
 
     events: {
-      'mouseenter %icons': 'iconHover',
-      'mouseleave %icons': 'iconInactive',
+      'mouseenter': 'iconHover',
+      'mouseleave': 'iconInactive',
 
       paneswitch: function(event, newPane) {
         if (newPane !== this.appTitle()) {
