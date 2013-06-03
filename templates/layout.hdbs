@@ -1,1 +1,2 @@
-<div data-main></div>
+<header><h1>{{setting "title"}}</h1></header>
+<section class="pane iframe_container" data-main />
