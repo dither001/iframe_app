@@ -5,7 +5,7 @@
     defaultState: 'iframe',
 
     events: {
-      'app.activated':  'appActivated'
+      'app.activated': 'appActivated'
     },
 
     appActivated: function(data) {
