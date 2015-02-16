@@ -1,1 +1,1 @@
-<iframe src="{{setting "iframeURL"}}"/>
+{{iframe src}}
