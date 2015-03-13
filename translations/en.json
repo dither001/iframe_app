@@ -1,14 +1,35 @@
 {
   "app": {
-    "parameters": {
-      "iframeURL":        { "label": "iframe URL" },
-      "inactiveIconURL":  { "label": "Inactive Icon URL" },
-      "hoverIconURL":     { "label": "Hover Icon URL" },
-      "selectedIconURL":  { "label": "Selected Icon URL" }
-    },
-
     "package": "iframe_app",
-
-    "description":  "Add a custom icon to the sidebar & embed any website, aka Sidebar Icon app"
+    "parameters": {
+      "iframeURL": {
+        "label": {
+          "title": "iframe URL. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac",
+          "value": "iframe URL"
+        }
+      },
+      "inactiveIconURL": {
+        "label": {
+          "title": "Inactive Icon URL. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac",
+          "value": "Inactive Icon URL"
+        }
+      },
+      "hoverIconURL": {
+        "label": {
+          "title": "Hover Icon URL. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac",
+          "value": "Hover Icon URL"
+        }
+      },
+      "selectedIconURL": {
+        "label": {
+          "title": "Selected Icon URL. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac",
+          "value": "Selected Icon URL"
+        }
+      }
+    },
+    "description": {
+      "title": "Add a custom icon to the sidebar & embed any website, aka Sidebar Icon app. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac",
+      "value": "Add a custom icon to the sidebar & embed any website, aka Sidebar Icon app"
+    }
   }
 }
