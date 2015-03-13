@@ -7,21 +7,21 @@ packages:
 parts:
   - translation:
       key: "txt.apps.iframe_app.app.parameters.iframeURL.label"
-      title: "iframe URL"
+      title: "iframe URL. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac"
       value: "iframe URL"
   - translation:
       key: "txt.apps.iframe_app.app.parameters.inactiveIconURL.label"
-      title: "Inactive Icon URL"
+      title: "Inactive Icon URL. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac"
       value: "Inactive Icon URL"
   - translation:
       key: "txt.apps.iframe_app.app.parameters.hoverIconURL.label"
-      title: "Hover Icon URL"
+      title: "Hover Icon URL. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac"
       value: "Hover Icon URL"
   - translation:
       key: "txt.apps.iframe_app.app.parameters.selectedIconURL.label"
-      title: "Selected Icon URL"
+      title: "Selected Icon URL. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac"
       value: "Selected Icon URL"
   - translation:
       key: "txt.apps.iframe_app.app.description"
-      title: "Add a custom icon to the sidebar & embed any website, aka Sidebar Icon app"
+      title: "Add a custom icon to the sidebar & embed any website, aka Sidebar Icon app. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac"
       value: "Add a custom icon to the sidebar & embed any website, aka Sidebar Icon app"
