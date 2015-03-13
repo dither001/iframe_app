@@ -1,0 +1,27 @@
+---
+title: "Iframe"
+packages:
+  - default
+  - app_iframe_app
+
+parts:
+  - translation:
+      key: "txt.apps.iframe_app.app.parameters.iframeURL.label"
+      title: "iframe URL"
+      value: "iframe URL"
+  - translation:
+      key: "txt.apps.iframe_app.app.parameters.inactiveIconURL.label"
+      title: "Inactive Icon URL"
+      value: "Inactive Icon URL"
+  - translation:
+      key: "txt.apps.iframe_app.app.parameters.hoverIconURL.label"
+      title: "Hover Icon URL"
+      value: "Hover Icon URL"
+  - translation:
+      key: "txt.apps.iframe_app.app.parameters.selectedIconURL.label"
+      title: "Selected Icon URL"
+      value: "Selected Icon URL"
+  - translation:
+      key: "txt.apps.iframe_app.app.description"
+      title: "Add a custom icon to the sidebar & embed any website, aka Sidebar Icon app"
+      value: "Add a custom icon to the sidebar & embed any website, aka Sidebar Icon app"

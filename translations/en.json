@@ -7,6 +7,8 @@
       "selectedIconURL":  { "label": "Selected Icon URL" }
     },
 
-    "description":  "Add a custom icon to the sidebar & embed any website"
+    "package": "iframe_app",
+
+    "description":  "Add a custom icon to the sidebar & embed any website, aka Sidebar Icon app"
   }
 }
