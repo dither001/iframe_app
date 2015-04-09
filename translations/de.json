@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "Iframe-URL"
+      },
+      "inactiveIconURL": {
+        "label": "URL für inaktives Symbol"
+      },
+      "hoverIconURL": {
+        "label": "URL für Hover-Symbol"
+      },
+      "selectedIconURL": {
+        "label": "URL für ausgewähltes Symbol"
+      }
+    },
+    "description": "Hinzufügen eines angepassten Symbols zur Seitenleiste und Einbetten einer beliebigen Website. Früher als App „Seitenleistensymbol“ bekannt."
+  }
+}

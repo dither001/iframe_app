@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "Adresă URL iFrame"
+      },
+      "inactiveIconURL": {
+        "label": "Adresă URL pictogramă inactivă"
+      },
+      "hoverIconURL": {
+        "label": "Adresă URL pictogramă de trecere"
+      },
+      "selectedIconURL": {
+        "label": "Adresă URL pictogramă selectată"
+      }
+    },
+    "description": "Adăugaţi o pictogramă personalizată la bara laterală şi încorporaţi orice site web. Această opţiune era cunoscută anterior drept aplicaţia Pictograma Bară laterală."
+  }
+}

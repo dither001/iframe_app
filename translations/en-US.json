@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "Iframe URL"
+      },
+      "inactiveIconURL": {
+        "label": "Inactive Icon URL"
+      },
+      "hoverIconURL": {
+        "label": "Hover Icon URL"
+      },
+      "selectedIconURL": {
+        "label": "Selected Icon URL"
+      }
+    },
+    "description": "Add a custom icon to the sidebar & embed any website. Formerly known as the Sidebar Icon app"
+  }
+}

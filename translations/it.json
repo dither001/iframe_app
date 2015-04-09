@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "URL iframe"
+      },
+      "inactiveIconURL": {
+        "label": "URL icona disattivata"
+      },
+      "hoverIconURL": {
+        "label": "URL icona passaggio del mouse"
+      },
+      "selectedIconURL": {
+        "label": "URL icona selezionata"
+      }
+    },
+    "description": "Aggiungi un’icona personalizzata alla barra laterale per incorporare qualsiasi sito web. Precedentemente nota come app Icona nella barra laterale."
+  }
+}

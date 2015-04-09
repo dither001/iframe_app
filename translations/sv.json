@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "Iframe-webbadress"
+      },
+      "inactiveIconURL": {
+        "label": "Webbadress för inaktiv ikon"
+      },
+      "hoverIconURL": {
+        "label": "Webbadress för hovrad ikon"
+      },
+      "selectedIconURL": {
+        "label": "Webbadress för vald ikon"
+      }
+    },
+    "description": "Lägg till en egen ikon på sidopanelen och bädda in en valfri webbplats. Denna app kallades tidigare Sidopanelikon"
+  }
+}

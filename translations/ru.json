@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "Iframe URL"
+      },
+      "inactiveIconURL": {
+        "label": "URL неактивного значка"
+      },
+      "hoverIconURL": {
+        "label": "URL значка при наведении"
+      },
+      "selectedIconURL": {
+        "label": "URL выбранного значка"
+      }
+    },
+    "description": "Добавьте свой значок на боковую панель и встройте любой веб-сайт. Ранее эта функция называлась «Значок боковой панели»"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "Webadres voor iFrame"
+      },
+      "inactiveIconURL": {
+        "label": "Webadres voor niet-actief pictogram"
+      },
+      "hoverIconURL": {
+        "label": "Webadres voor zwevend pictogram"
+      },
+      "selectedIconURL": {
+        "label": "Webadres voor geselecteerd pictogram"
+      }
+    },
+    "description": "Voeg een aangepast pictogram toe aan de zijbalk en sluit een website in. Voorheen bekend als de app Zijbalkpictogram"
+  }
+}

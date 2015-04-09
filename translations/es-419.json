@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "URL de Iframe"
+      },
+      "inactiveIconURL": {
+        "label": "URL de icono inactivo"
+      },
+      "hoverIconURL": {
+        "label": "URL de icono flotante"
+      },
+      "selectedIconURL": {
+        "label": "URL de icono seleccionado"
+      }
+    },
+    "description": "Agregue un icono personalizado en la barra lateral e incruste cualquier sitio web. Anteriormente conocida como la aplicación Icono de barra lateral"
+  }
+}

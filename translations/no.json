@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "URL for Iframe"
+      },
+      "inactiveIconURL": {
+        "label": "URL for inaktivt ikon"
+      },
+      "hoverIconURL": {
+        "label": "URL for pekerfølsomt ikon"
+      },
+      "selectedIconURL": {
+        "label": "URL for valgt ikon"
+      }
+    },
+    "description": "Legg til et tilpasset ikon til sidefeltet og bygg inn et nettsted. Tidligere kalt Sidefeltikon-appen"
+  }
+}

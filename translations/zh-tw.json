@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "Iframe URL"
+      },
+      "inactiveIconURL": {
+        "label": "非作用中圖示 URL"
+      },
+      "hoverIconURL": {
+        "label": "游標暫留圖示 URL"
+      },
+      "selectedIconURL": {
+        "label": "已選圖示 URL"
+      }
+    },
+    "description": "新增一個自訂圖示至側欄並內嵌至任意網站。以往稱之為「側欄圖示」app"
+  }
+}
