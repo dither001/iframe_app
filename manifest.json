@@ -3,30 +3,25 @@
     "name": "Zendesk",
     "email": "support@zendesk.com"
   },
-
   "location": "nav_bar",
   "defaultLocale": "en",
   "private": false,
   "frameworkVersion": "1.0",
-  "version": "1.0",
-
+  "version": "1.0.1",
   "parameters": [
     {
       "name": "iframeURL",
       "type": "url",
       "required": true
     },
-
     {
       "name": "inactiveIconURL",
       "type": "url"
     },
-
     {
       "name": "hoverIconURL",
       "type": "url"
     },
-
     {
       "name": "selectedIconURL",
       "type": "url"
