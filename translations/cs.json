@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "URL prvku iFrame"
+      },
+      "inactiveIconURL": {
+        "label": "URL neaktivní ikony"
+      },
+      "hoverIconURL": {
+        "label": "URL ikony zobrazené při najetí myši"
+      },
+      "selectedIconURL": {
+        "label": "URL vybrané ikony"
+      }
+    },
+    "description": "Přidejte do postranního panelu vlastní ikonu a vložte libovolný web. Dříve se této aplikaci říkalo Postranní panel s ikonou"
+  }
+}

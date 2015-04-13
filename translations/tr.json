@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "Iframe için URL"
+      },
+      "inactiveIconURL": {
+        "label": "Etkin Olmayan Simge için URL"
+      },
+      "hoverIconURL": {
+        "label": "Vurgu Simgesi için URL"
+      },
+      "selectedIconURL": {
+        "label": "Seçili Simge için URL"
+      }
+    },
+    "description": "Yan çubuğa özel bir simge ekleyin ve bir siteyi gömün. Daha önceden Yan Çubuk Simgesi uygulaması olarak biliniyordu"
+  }
+}

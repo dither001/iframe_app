@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "iframe URL"
+      },
+      "inactiveIconURL": {
+        "label": "URL for inaktivt ikon"
+      },
+      "hoverIconURL": {
+        "label": "URL for pegefølsomt ikon"
+      },
+      "selectedIconURL": {
+        "label": "URL for valgt ikon"
+      }
+    },
+    "description": "Tilføj et brugerdefineret ikon til sidepanelet og integrer enhver website. Tidligere kendt som app’en Sidepanel-ikon"
+  }
+}

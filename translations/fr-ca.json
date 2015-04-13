@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "URL Iframe"
+      },
+      "inactiveIconURL": {
+        "label": "URL d’icône inactive"
+      },
+      "hoverIconURL": {
+        "label": "URL d’icône de survol"
+      },
+      "selectedIconURL": {
+        "label": "URL d’icône sélectionnée"
+      }
+    },
+    "description": "Ajoutez une icône personnalisée à la barre latérale et incorporez n’importe quel site Web. Anciennement appelé application d’icône de barre latérale."
+  }
+}

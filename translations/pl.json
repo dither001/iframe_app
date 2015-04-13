@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "Adres URL aplikacji Iframe"
+      },
+      "inactiveIconURL": {
+        "label": "Adres URL nieaktywnej ikony"
+      },
+      "hoverIconURL": {
+        "label": "Adres URL ikony pod kursorem"
+      },
+      "selectedIconURL": {
+        "label": "Adres URL wybranej ikony"
+      }
+    },
+    "description": "Dodaj niestandardową ikonę do menu bocznego i osadź dowolną witrynę internetową. Aplikacja wcześniejsza znana pod nazwą Ikona menu bocznego."
+  }
+}

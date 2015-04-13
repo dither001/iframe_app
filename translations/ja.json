@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "Iframe URL"
+      },
+      "inactiveIconURL": {
+        "label": "非操作時アイコンのURL"
+      },
+      "hoverIconURL": {
+        "label": "ホバーアイコンのURL"
+      },
+      "selectedIconURL": {
+        "label": "選択したアイコンのURL"
+      }
+    },
+    "description": "サイドバーにカスタムアイコンを追加し、Webサイトを埋め込みます。以前はサイドバーアイコンアプリと呼ばれていました"
+  }
+}

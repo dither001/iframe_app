@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "Iframe-URL"
+      },
+      "inactiveIconURL": {
+        "label": "Käyttämättömän kuvakkeen URL"
+      },
+      "hoverIconURL": {
+        "label": "Osoitettavan kuvakkeen URL"
+      },
+      "selectedIconURL": {
+        "label": "Valitun kuvakkeen URL"
+      }
+    },
+    "description": "Lisää oma kuvake sivupalkkiin ja upota se mihin tahansa sivustoon. Tunnettiin aikaisemmin Sivupalkin kuvake -sovelluksena"
+  }
+}

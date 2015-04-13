@@ -1,0 +1,19 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "Iframe URL"
+      },
+      "inactiveIconURL": {
+        "label": "非活动的图标 URL"
+      },
+      "hoverIconURL": {
+        "label": "悬停图标 URL"
+      },
+      "selectedIconURL": {
+        "label": "选中的图标 URL"
+      }
+    },
+    "description": "添加一个自定义图标到侧栏，并嵌入任意网站。以前称为“侧栏图标”app"
+  }
+}
