@@ -33,7 +33,7 @@
         },
         "helpText": {
           "title": "Help text to explain the ZAF SDK support option. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo",
-          "value": "Check this box if the iframed website requires SDK support. For more information check out our developer documentation."
+          "value": "Check this box if the iframed website requires ZAF SDK support. For more information check out our developer documentation."
         }
       }
     },
