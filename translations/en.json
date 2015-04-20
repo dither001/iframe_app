@@ -33,13 +33,13 @@
         },
         "helpText": {
           "title": "Help text to explain the ZAF SDK support option. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo",
-          "value": "Check this box if the iframed website requires ZAF SDK support. For more information check out our developer documentation."
+          "value": "Check this box if the iframed website requires ZAF SDK support. See the 'Iframes in Apps' topic in our developer documentation."
         }
       }
     },
     "description": {
-      "title": "Embed any website in your Zendesk (formerly known as Sidebar Icon app). See https://zendesk.box.com/s/0c5a122j1hdgbx4yu6bqlktdtl1qfu03",
-      "value": "Embed any website in your Zendesk (formerly known as Sidebar Icon app)"
+      "title": "Embed any website in your Zendesk. Formerly known as Sidebar Icon app. See https://zendesk.box.com/s/0c5a122j1hdgbx4yu6bqlktdtl1qfu03",
+      "value": "Embed any website in your Zendesk. Formerly known as Sidebar Icon app."
     }
   }
 }
