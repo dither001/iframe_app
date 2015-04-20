@@ -25,6 +25,11 @@
     {
       "name": "selectedIconURL",
       "type": "url"
+    },
+    {
+      "name": "zafSdkSupport",
+      "type": "checkbox",
+      "default": "1"
     }
   ]
 }

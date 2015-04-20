@@ -4,32 +4,42 @@
     "parameters": {
       "iframeURL": {
         "label": {
-          "title": "iframe URL. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac",
+          "title": "iframe URL. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo",
           "value": "iframe URL"
         }
       },
       "inactiveIconURL": {
         "label": {
-          "title": "Inactive Icon URL. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac",
+          "title": "Inactive Icon URL. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo",
           "value": "Inactive Icon URL"
         }
       },
       "hoverIconURL": {
         "label": {
-          "title": "Hover Icon URL. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac",
+          "title": "Hover Icon URL. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo",
           "value": "Hover Icon URL"
         }
       },
       "selectedIconURL": {
         "label": {
-          "title": "Selected Icon URL. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac",
+          "title": "Selected Icon URL. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo",
           "value": "Selected Icon URL"
+        }
+      },
+      "zafSdkSupport": {
+        "label": {
+          "title": "A checkbox to enable ZAF SDK support. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo",
+          "value": "Enable ZAF SDK support?"
+        },
+        "helpText": {
+          "title": "Help text to explain the ZAF SDK support option. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo",
+          "value": "Check this box if the iframed website requires ZAF SDK support. See the 'Iframes in Apps' topic in our developer documentation."
         }
       }
     },
     "description": {
-      "title": "Add a custom icon to the sidebar & embed any website, aka Sidebar Icon app. See https://zendesk.app.box.com/s/sn4u8kxq6k1zsy5nu66xhurobpbf9tac",
-      "value": "Add a custom icon to the sidebar & embed any website, aka Sidebar Icon app"
+      "title": "Embed any website in your Zendesk. Formerly known as Sidebar Icon app. See https://zendesk.box.com/s/0c5a122j1hdgbx4yu6bqlktdtl1qfu03",
+      "value": "Embed any website in your Zendesk. Formerly known as Sidebar Icon app."
     }
   }
 }
