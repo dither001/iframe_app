@@ -1,6 +1,5 @@
 {
   "app": {
-    "package": "iframe_app",
     "parameters": {
       "iframeURL": {
         "label": {
@@ -38,8 +37,9 @@
       }
     },
     "description": {
-      "title": "Embed any website in your Zendesk. Formerly known as Sidebar Icon app. See https://zendesk.box.com/s/0c5a122j1hdgbx4yu6bqlktdtl1qfu03",
-      "value": "Embed any website in your Zendesk. Formerly known as Sidebar Icon app."
-    }
+      "title": "Embed any website in your Zendesk (formerly known as Sidebar Icon app). See https://zendesk.box.com/s/0c5a122j1hdgbx4yu6bqlktdtl1qfu03",
+      "value": "Embed any website in your Zendesk (formerly known as Sidebar Icon app)"
+    },
+    "package": "iframe_app"
   }
 }

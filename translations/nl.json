@@ -2,7 +2,7 @@
   "app": {
     "parameters": {
       "iframeURL": {
-        "label": "Webadres voor iFrame"
+        "label": "Webadres voor iframe"
       },
       "inactiveIconURL": {
         "label": "Webadres voor niet-actief pictogram"
@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "Webadres voor geselecteerd pictogram"
+      },
+      "zafSdkSupport": {
+        "label": "ZAF SDK-support inschakelen?",
+        "helpText": "Schakel dit vakje in als voor de iframe-website ZAF SDK-support is vereist. Zie het onderwerp 'Iframes in apps' in onze documentatie voor ontwikkelaars."
       }
     },
-    "description": "Voeg een aangepast pictogram toe aan de zijbalk en sluit een website in. Voorheen bekend als de app Zijbalkpictogram"
+    "description": "Sluit elke website in uw Zendesk in (voorheen bekend als de app Zijbalkpictogram)"
   }
 }

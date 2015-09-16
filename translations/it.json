@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "URL icona selezionata"
+      },
+      "zafSdkSupport": {
+        "label": "Attiva supporto ZAF SDK",
+        "helpText": "Se il sito web da incorporare con iframe richiede il supporto ZAF SDK, seleziona questa casella. Consulta l’argomento “Iframes in Apps” (Uso di iframe nelle app) nella nostra documentazione per sviluppatori."
       }
     },
-    "description": "Aggiungi un’icona personalizzata alla barra laterale per incorporare qualsiasi sito web. Precedentemente nota come app Icona nella barra laterale."
+    "description": "Permette di incorporare qualsiasi sito web in Zendesk (precedentemente nota come app Icona nella barra laterale)."
   }
 }

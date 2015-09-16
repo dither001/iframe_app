@@ -2,7 +2,7 @@
   "app": {
     "parameters": {
       "iframeURL": {
-        "label": "Iframe URL"
+        "label": "iframe URL"
       },
       "inactiveIconURL": {
         "label": "Inactive Icon URL"
@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "Selected Icon URL"
+      },
+      "zafSdkSupport": {
+        "label": "Enable ZAF SDK support?",
+        "helpText": "Check this box if the iframed website requires ZAF SDK support. See the 'Iframes in Apps' topic in our developer documentation."
       }
     },
-    "description": "Add a custom icon to the sidebar & embed any website. Formerly known as the Sidebar Icon app"
+    "description": "Embed any website in your Zendesk (formerly known as Sidebar Icon app)"
   }
 }

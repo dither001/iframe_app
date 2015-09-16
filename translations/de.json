@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "URL für ausgewähltes Symbol"
+      },
+      "zafSdkSupport": {
+        "label": "ZAF-SDK-Support aktivieren?",
+        "helpText": "Markieren Sie dieses Kästchen, wenn die Website, die im Iframe erscheinen soll, ZAF-SDK-Support erfordert. Weitere Informationen finden Sie unter „Iframes in Apps“ in unserer Dokumentation für Entwickler."
       }
     },
-    "description": "Hinzufügen eines angepassten Symbols zur Seitenleiste und Einbetten einer beliebigen Website. Früher als App „Seitenleistensymbol“ bekannt."
+    "description": "Einbetten einer beliebigen Website in Ihren Zendesk (früher als App „Seitenleistensymbol“ bekannt)"
   }
 }

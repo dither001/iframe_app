@@ -2,7 +2,7 @@
   "app": {
     "parameters": {
       "iframeURL": {
-        "label": "URL Iframe"
+        "label": "URL iFrame"
       },
       "inactiveIconURL": {
         "label": "URL d’icône inactive"
@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "URL d’icône sélectionnée"
+      },
+      "zafSdkSupport": {
+        "label": "Activer la prise en charge du SDK ZAF ?",
+        "helpText": "Cochez cette case si le site Web de l’iFrame nécessite la prise en charge du SDK ZAF. Consultez l’article « Iframes in Apps » (iFrame dans les applications) dans notre documentation destinée aux développeurs."
       }
     },
-    "description": "Ajoutez une icône personnalisée à la barre latérale et incorporez n’importe quel site Web. Anciennement appelé application d’icône de barre latérale."
+    "description": "Intégrez tout site Web dans votre Zendesk (auparavant appelée application Icône de barre latérale)"
   }
 }

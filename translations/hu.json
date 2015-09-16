@@ -1,0 +1,23 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "iframe URL"
+      },
+      "inactiveIconURL": {
+        "label": "Inaktív ikon URL"
+      },
+      "hoverIconURL": {
+        "label": "Hover Ikon URL"
+      },
+      "selectedIconURL": {
+        "label": "Kiválasztott ikon URL"
+      },
+      "zafSdkSupport": {
+        "label": "Bekapcsolja a ZAF SDK támogatást?",
+        "helpText": "Jelölje be ezt a mezőt, ha az iframed weboldal ZAF SDK támogatást igényel. Tekintse meg az 'Iframes in Apps' leírást a fejlesztői dokumentációban."
+      }
+    },
+    "description": "Bármely webhely beágyazása a Zendeskbe (Sidebar Icon alkalmazás használata)."
+  }
+}

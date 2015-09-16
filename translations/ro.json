@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "Adresă URL pictogramă selectată"
+      },
+      "zafSdkSupport": {
+        "label": "Activaţi asistenţa ZAF SDK?",
+        "helpText": "Bifaţi această casetă dacă site-ul web care utilizează iFrame necesită asistenţă ZAF SDK. Consultaţi subiectul „Iframes in Apps” (Elemente iFrame în aplicaţii) în documentaţia noastră pentru dezvoltatori."
       }
     },
-    "description": "Adăugaţi o pictogramă personalizată la bara laterală şi încorporaţi orice site web. Această opţiune era cunoscută anterior drept aplicaţia Pictograma Bară laterală."
+    "description": "Încorporaţi orice site web în contul dumneavoastră Zendesk (cunoscută anterior drept aplicaţia Pictograma Bară laterală)"
   }
 }

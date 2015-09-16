@@ -2,7 +2,7 @@
   "app": {
     "parameters": {
       "iframeURL": {
-        "label": "Iframe için URL"
+        "label": "iframe URL"
       },
       "inactiveIconURL": {
         "label": "Etkin Olmayan Simge için URL"
@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "Seçili Simge için URL"
+      },
+      "zafSdkSupport": {
+        "label": "ZAF SDK desteği etkinleştirilsin mi?",
+        "helpText": "Iframe ile gömülen web sitesi için ZAF SDK desteği gerekiyorsa bu kutuyu işaretleyin. Geliştirici belgelerimizde yer alan \"Iframes in Apps\" (Uygulamalarda Iframe) konu başlığına bakın."
       }
     },
-    "description": "Yan çubuğa özel bir simge ekleyin ve bir siteyi gömün. Daha önceden Yan Çubuk Simgesi uygulaması olarak biliniyordu"
+    "description": "Zendesk'inize bir site gömün (eski adıyla, Yan Çubuk Simgesi uygulaması)"
   }
 }

@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "URL for valgt ikon"
+      },
+      "zafSdkSupport": {
+        "label": "Aktivér ZAF SDK-support?",
+        "helpText": "Afkryds dette felt, hvis iframe-websiten kræver ZAF SDK-support. Se emnet 'Iframes in Apps' (Iframes i apps) i vores udviklerdokumentation."
       }
     },
-    "description": "Tilføj et brugerdefineret ikon til sidepanelet og integrer enhver website. Tidligere kendt som app’en Sidepanel-ikon"
+    "description": "Integrer enhver website i din Zendesk-konto (tidligere kendt som app’en Sidepanel-ikon)"
   }
 }
