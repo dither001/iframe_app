@@ -2,7 +2,7 @@
   "app": {
     "parameters": {
       "iframeURL": {
-        "label": "Iframe-webbadress"
+        "label": "iframe-webbadress"
       },
       "inactiveIconURL": {
         "label": "Webbadress för inaktiv ikon"
@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "Webbadress för vald ikon"
+      },
+      "zafSdkSupport": {
+        "label": "Vill du aktivera stöd för ZAF SDK?",
+        "helpText": "Markera denna ruta om den iframe-inbäddade webbplatsen kräver stöd för ZAF SDK. Sök efter ämnet ”Iframes in Apps” (iframe i appar) i vår dokumentation för programutvecklare."
       }
     },
-    "description": "Lägg till en egen ikon på sidopanelen och bädda in en valfri webbplats. Denna app kallades tidigare Sidopanelikon"
+    "description": "Bädda in en valfri webbplats i din Zendesk (appen kallades tidigare Sidopanelikon)"
   }
 }

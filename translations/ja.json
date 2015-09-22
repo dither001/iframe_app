@@ -2,7 +2,7 @@
   "app": {
     "parameters": {
       "iframeURL": {
-        "label": "Iframe URL"
+        "label": "iframe URL"
       },
       "inactiveIconURL": {
         "label": "非操作時アイコンのURL"
@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "選択したアイコンのURL"
+      },
+      "zafSdkSupport": {
+        "label": "ZAF SDKサポートを有効にしますか？",
+        "helpText": "Iframe化されたWebサイトには、ZAF SDKサポートが必要です。開発元のマニュアルで「Iframes in Apps」のトピックを参照してください。"
       }
     },
-    "description": "サイドバーにカスタムアイコンを追加し、Webサイトを埋め込みます。以前はサイドバーアイコンアプリと呼ばれていました"
+    "description": "ご利用のZendeskに任意のWebサイトを埋め込みます（従来、サイドバーアイコンアプリと呼ばれていました）"
   }
 }

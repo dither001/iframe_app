@@ -1,0 +1,23 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "عنوان URL‏ iframe"
+      },
+      "inactiveIconURL": {
+        "label": "عنوان URL لأيقونة \"غير نشط"
+      },
+      "hoverIconURL": {
+        "label": "المرور فوق أيقونة URL"
+      },
+      "selectedIconURL": {
+        "label": "عنوان URL أيقونة \"مُحدّد\""
+      },
+      "zafSdkSupport": {
+        "label": "هل تريد تمكين دعم ZAF SDK؟",
+        "helpText": "علم على هذا المربع إذا كان موقع الويب المتضمَّن في iframe يتطلب دعم ZAF SDK. راجع موضوع \"Iframes in Apps\" (عناصر iframe في التطبيقات) ضمن وثائق المطور."
+      }
+    },
+    "description": "تضمين أي موقع ويب في حساب Zendesk الخاص بك (ما كان يُعرف سابقًا بتطبيق أيقونة العمود الجانبي)"
+  }
+}

@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "URL de icono seleccionado"
+      },
+      "zafSdkSupport": {
+        "label": "¿Desea activar el soporte de SDK para ZAF?",
+        "helpText": "Marque esta casilla si el sitio web con Iframe requiere soporte de SDK para ZAF. Consulte el tema \"Iframes in Apps\" (Iframe en aplicaciones) en la documentación para desarrolladores."
       }
     },
-    "description": "Agregue un icono personalizado en la barra lateral e incruste cualquier sitio web. Anteriormente conocida como la aplicación Icono de barra lateral"
+    "description": "Incruste cualquier sitio web en su cuenta de Zendesk (antes conocida como aplicación Icono de barra lateral)"
   }
 }

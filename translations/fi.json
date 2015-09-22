@@ -2,7 +2,7 @@
   "app": {
     "parameters": {
       "iframeURL": {
-        "label": "Iframe-URL"
+        "label": "iframe-URL"
       },
       "inactiveIconURL": {
         "label": "Käyttämättömän kuvakkeen URL"
@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "Valitun kuvakkeen URL"
+      },
+      "zafSdkSupport": {
+        "label": "Otetaanko ZAF SDK -tuki käyttöön?",
+        "helpText": "Valitse tämä ruutu, jos iframe-sivusto vaatii ZAF SDK -tukea. Katso ohjelmoijan dokumentaatiosta kohtaa \"Iframet sovelluksissa\"."
       }
     },
-    "description": "Lisää oma kuvake sivupalkkiin ja upota se mihin tahansa sivustoon. Tunnettiin aikaisemmin Sivupalkin kuvake -sovelluksena"
+    "description": "Upota mikä tahansa Internet-sivusto Zendeskiin (tunnettiin aikaisemmin Sivupalkin kuvake -sovelluksena)"
   }
 }

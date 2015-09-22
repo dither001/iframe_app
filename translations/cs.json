@@ -2,7 +2,7 @@
   "app": {
     "parameters": {
       "iframeURL": {
-        "label": "URL prvku iFrame"
+        "label": "URL elementu iFrame"
       },
       "inactiveIconURL": {
         "label": "URL neaktivní ikony"
@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "URL vybrané ikony"
+      },
+      "zafSdkSupport": {
+        "label": "Zapnout podporu SDK ZAF?",
+        "helpText": "Toto pole zaškrtněte, pokud web v elementu iframe vyžaduje podporu SDK ZAF. Viz téma „Iframes in Apps“ v naší dokumentaci pro vývojáře."
       }
     },
-    "description": "Přidejte do postranního panelu vlastní ikonu a vložte libovolný web. Dříve se této aplikaci říkalo Postranní panel s ikonou"
+    "description": "Vložení libovolného webu do vašeho Zendesku (dříve nazývané aplikace Postranní panel s ikonou)"
   }
 }

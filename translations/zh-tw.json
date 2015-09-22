@@ -2,7 +2,7 @@
   "app": {
     "parameters": {
       "iframeURL": {
-        "label": "Iframe URL"
+        "label": "iframe URL"
       },
       "inactiveIconURL": {
         "label": "非作用中圖示 URL"
@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "已選圖示 URL"
+      },
+      "zafSdkSupport": {
+        "label": "啟用 ZAF SDK 支援？",
+        "helpText": "若 iframe 網站需 ZAF SDK 支援，核取此方塊。參閱我們開發者文檔中的「Iframes in Apps」（App 中的 Iframe）主題。"
       }
     },
-    "description": "新增一個自訂圖示至側欄並內嵌至任意網站。以往稱之為「側欄圖示」app"
+    "description": "內嵌任意網站至您的 Zendesk（以往稱之為「側欄圖示」app）"
   }
 }

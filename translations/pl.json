@@ -2,7 +2,7 @@
   "app": {
     "parameters": {
       "iframeURL": {
-        "label": "Adres URL aplikacji Iframe"
+        "label": "Adres URL ramki iframe"
       },
       "inactiveIconURL": {
         "label": "Adres URL nieaktywnej ikony"
@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "Adres URL wybranej ikony"
+      },
+      "zafSdkSupport": {
+        "label": "Włączyć obsługę zestawu ZAF SDK?",
+        "helpText": "Zaznacz to pole, jeśli witryna osadzona przy użyciu ramki iframe wymaga obsługi zestawu ZAF SDK. Zobacz temat „Iframes in Apps” („Ramki iframe w aplikacjach”) w naszej dokumentacji dla deweloperów."
       }
     },
-    "description": "Dodaj niestandardową ikonę do menu bocznego i osadź dowolną witrynę internetową. Aplikacja wcześniejsza znana pod nazwą Ikona menu bocznego."
+    "description": "Osadź wybraną witrynę internetową na koncie Zendesk (aplikacja znana wcześniej pod nazwą Ikona menu bocznego)"
   }
 }

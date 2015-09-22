@@ -2,7 +2,7 @@
   "app": {
     "parameters": {
       "iframeURL": {
-        "label": "URL for Iframe"
+        "label": "URL for iFrame"
       },
       "inactiveIconURL": {
         "label": "URL for inaktivt ikon"
@@ -12,8 +12,12 @@
       },
       "selectedIconURL": {
         "label": "URL for valgt ikon"
+      },
+      "zafSdkSupport": {
+        "label": "Vil du aktivere støtte for ZAF SDK?",
+        "helpText": "Merk av i denne boksen hvis nettstedet med iframe krever støtte for ZAF SDK. Les emnet «Iframe i apper» i dokumentasjonen for utviklere."
       }
     },
-    "description": "Legg til et tilpasset ikon til sidefeltet og bygg inn et nettsted. Tidligere kalt Sidefeltikon-appen"
+    "description": "Bygg inn et nettsted i Zendesk (tidligere kjent som Sidefeltikon-appen)"
   }
 }
