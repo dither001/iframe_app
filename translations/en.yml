@@ -14,17 +14,17 @@ parts:
       key: "txt.apps.iframe_app.app.parameters.inactiveIconURL.label"
       title: "Inactive Icon URL. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
       screenshot: "https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
-      value: "Inactive Icon URL"
+      value: "Inactive icon URL"
   - translation:
       key: "txt.apps.iframe_app.app.parameters.hoverIconURL.label"
       title: "Hover Icon URL. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
       screenshot: "https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
-      value: "Hover Icon URL"
+      value: "Hover icon URL"
   - translation:
       key: "txt.apps.iframe_app.app.parameters.selectedIconURL.label"
       title: "Selected Icon URL. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
       screenshot: "https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
-      value: "Selected Icon URL"
+      value: "Selected icon URL"
   - translation:
       key: "txt.apps.iframe_app.app.parameters.zafSdkSupport.label"
       title: "A checkbox to enable ZAF SDK support. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
@@ -34,7 +34,7 @@ parts:
       key: "txt.apps.iframe_app.app.parameters.zafSdkSupport.helpText"
       title: "Help text to explain the ZAF SDK support option. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
       screenshot: "https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
-      value: "Check this box if the iframed website requires ZAF SDK support. See the 'Iframes in Apps' topic in our developer documentation."
+      value: "Check this box if the iframed website requires ZAF SDK support. See the Iframes in Apps topic in our developer documentation."
   - translation:
       key: "txt.apps.iframe_app.app.description"
       title: "Embed any website in your Zendesk (formerly known as Sidebar Icon app). See https://zendesk.box.com/s/0c5a122j1hdgbx4yu6bqlktdtl1qfu03"
