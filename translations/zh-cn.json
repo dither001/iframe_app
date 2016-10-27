@@ -15,9 +15,9 @@
       },
       "zafSdkSupport": {
         "label": "启用 ZAF SDK 支持？",
-        "helpText": "如果使用 iframe 的网站需要 ZAF SDK 支持，请勾选此框。请查阅我们开发者文档中的“Iframes in Apps”（App 中的 Iframe）主题。"
+        "helpText": "如果使用 iframe 的网站需要 ZAF SDK 支持，请勾选此框。请查阅我们开发者文档中的“Iframes in Apps”（应用中的 Iframe）主题。"
       }
     },
-    "description": "将任意网站嵌入到您的 Zendesk 中（以前称为“侧栏图标”app）"
+    "description": "将任意网站嵌入到您的 Zendesk 中（以前称为“侧栏图标”应用）"
   }
 }

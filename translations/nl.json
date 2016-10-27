@@ -18,6 +18,6 @@
         "helpText": "Schakel dit vakje in als voor de iframe-website ZAF SDK-support is vereist. Zie het onderwerp 'Iframes in apps' in onze documentatie voor ontwikkelaars."
       }
     },
-    "description": "Sluit elke website in uw Zendesk in (voorheen bekend als de app Zijbalkpictogram)"
+    "description": "Maak een pictogram en voeg elke website toe aan uw Zendesk"
   }
 }

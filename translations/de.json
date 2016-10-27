@@ -18,6 +18,6 @@
         "helpText": "Markieren Sie dieses Kästchen, wenn die Website, die im Iframe erscheinen soll, ZAF-SDK-Support erfordert. Weitere Informationen finden Sie unter „Iframes in Apps“ in unserer Dokumentation für Entwickler."
       }
     },
-    "description": "Einbetten einer beliebigen Website in Ihren Zendesk (früher als App „Seitenleistensymbol“ bekannt)"
+    "description": "Einbetten einer Website in Ihren Zendesk (früher bekannt als  „Seitenleisten-Symbol“)"
   }
 }

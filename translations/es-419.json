@@ -18,6 +18,6 @@
         "helpText": "Marque esta casilla si el sitio web con Iframe requiere soporte de SDK para ZAF. Consulte el tema \"Iframes in Apps\" (Iframe en aplicaciones) en la documentación para desarrolladores."
       }
     },
-    "description": "Incruste cualquier sitio web en su cuenta de Zendesk (antes conocida como aplicación Icono de barra lateral)"
+    "description": "Incruste sitio web en su cuenta de Zendesk (antes Icono de barra lateral)"
   }
 }

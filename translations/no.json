@@ -15,7 +15,7 @@
       },
       "zafSdkSupport": {
         "label": "Vil du aktivere støtte for ZAF SDK?",
-        "helpText": "Merk av i denne boksen hvis nettstedet med iframe krever støtte for ZAF SDK. Les emnet «Iframe i apper» i dokumentasjonen for utviklere."
+        "helpText": "Merk av i denne boksen hvis nettstedet med iframe krever støtte for ZAF SDK. Les emnet Iframe i apper i dokumentasjonen for utviklere."
       }
     },
     "description": "Bygg inn et nettsted i Zendesk (tidligere kjent som Sidefeltikon-appen)"

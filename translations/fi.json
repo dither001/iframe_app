@@ -15,9 +15,9 @@
       },
       "zafSdkSupport": {
         "label": "Otetaanko ZAF SDK -tuki käyttöön?",
-        "helpText": "Valitse tämä ruutu, jos iframe-sivusto vaatii ZAF SDK -tukea. Katso ohjelmoijan dokumentaatiosta kohtaa \"Iframet sovelluksissa\"."
+        "helpText": "Valitse tämä ruutu, jos iframe-sivusto vaatii ZAF SDK -tukea.  Katso ohjelmoijan dokumentaatiosta kohtaa \"Iframet sovelluksissa\"."
       }
     },
-    "description": "Upota mikä tahansa Internet-sivusto Zendeskiin (tunnettiin aikaisemmin Sivupalkin kuvake -sovelluksena)"
+    "description": "Upota mikä vain Internet-sivusto Zendeskiin (aiemmin nimellä: Sivupalkin kuvake -sovellus)"
   }
 }

@@ -5,7 +5,7 @@
         "label": "iframe URL"
       },
       "inactiveIconURL": {
-        "label": "非操作時アイコンのURL"
+        "label": "非アクティブなアイコンのURL"
       },
       "hoverIconURL": {
         "label": "ホバーアイコンのURL"

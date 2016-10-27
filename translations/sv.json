@@ -15,7 +15,7 @@
       },
       "zafSdkSupport": {
         "label": "Vill du aktivera stöd för ZAF SDK?",
-        "helpText": "Markera denna ruta om den iframe-inbäddade webbplatsen kräver stöd för ZAF SDK. Sök efter ämnet ”Iframes in Apps” (iframe i appar) i vår dokumentation för programutvecklare."
+        "helpText": "Markera denna ruta om den iFrame-inbäddade webbplatsen kräver stöd för ZAF SDK. Sök efter ämnet ”Iframes in Apps” (iFrame i appar) i vår dokumentation för programutvecklare."
       }
     },
     "description": "Bädda in en valfri webbplats i din Zendesk (appen kallades tidigare Sidopanelikon)"

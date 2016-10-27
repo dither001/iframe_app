@@ -18,6 +18,6 @@
         "helpText": "Toto pole zaškrtněte, pokud web v elementu iframe vyžaduje podporu SDK ZAF. Viz téma „Iframes in Apps“ v naší dokumentaci pro vývojáře."
       }
     },
-    "description": "Vložení libovolného webu do vašeho Zendesku (dříve nazývané aplikace Postranní panel s ikonou)"
+    "description": "Vložení libovolného webu do vašeho Zendesku (dříve Postranní panel s ikonou)"
   }
 }

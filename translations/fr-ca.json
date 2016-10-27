@@ -18,6 +18,6 @@
         "helpText": "Cochez cette case si le site Web de l’iFrame nécessite la prise en charge du SDK ZAF. Consultez l’article « Iframes in Apps » (iFrame dans les applications) dans notre documentation destinée aux développeurs."
       }
     },
-    "description": "Intégrez tout site Web dans votre Zendesk (auparavant appelée application Icône de barre latérale)"
+    "description": "Intégrez un site dans votre Zendesk (autrefois : application Icône de barre latérale)"
   }
 }

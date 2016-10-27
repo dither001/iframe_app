@@ -15,9 +15,9 @@
       },
       "zafSdkSupport": {
         "label": "Aktivér ZAF SDK-support?",
-        "helpText": "Afkryds dette felt, hvis iframe-websiten kræver ZAF SDK-support. Se emnet 'Iframes in Apps' (Iframes i apps) i vores udviklerdokumentation."
+        "helpText": "Afkryds dette felt, hvis iframe-websiten kræver ZAF SDK-support. Se emnet Iframes in Apps (Iframes i apps) i vores udviklerdokumentation."
       }
     },
-    "description": "Integrer enhver website i din Zendesk-konto (tidligere kendt som app’en Sidepanel-ikon)"
+    "description": "Integrer enhver website i din Zendesk-konto (tidligere kendt som appen Sidepanel-ikon)"
   }
 }

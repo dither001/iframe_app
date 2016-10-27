@@ -1,0 +1,23 @@
+{
+  "app": {
+    "parameters": {
+      "iframeURL": {
+        "label": "URL на iframe"
+      },
+      "inactiveIconURL": {
+        "label": "URL на неактивна икона"
+      },
+      "hoverIconURL": {
+        "label": "URL на икона, появяваща се при посочване "
+      },
+      "selectedIconURL": {
+        "label": "URL на избрана икона"
+      },
+      "zafSdkSupport": {
+        "label": "Да се активира ли поддръжката на ZAF SDK?",
+        "helpText": "Отметнете това квадратче, ако уебсайтът в iframe изисква поддръжка на ZAF SDK. Вижте темата „Iframes в приложения“ в документацията за разработчици."
+      }
+    },
+    "description": "Вградете произволен уебсайт във вашия Zendesk (някога известно като приложение Sidebar Icon)"
+  }
+}
