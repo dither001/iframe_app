@@ -6,6 +6,58 @@ packages:
 
 parts:
   - translation:
+      key: "txt.apps.iframe_app.app.name"
+      title: "Name for App: Iframe"
+      value: "Iframe"
+  - translation:
+      key: "txt.apps.iframe_app.app.short_description"
+      title: "Description for App: Iframe"
+      value: "Embed any website in your Zendesk (formerly known as Sidebar Icon app)"
+  - translation:
+      key: "txt.apps.iframe_app.app.long_description"
+      title: "Long Description for App: Iframe"
+      value: "An *iframe* is an HTML element that lets you nest one web page in another web page. The Zendesk Iframe app lets your agents quickly navigate to an external website and then return to their tickets without interrupting their workflow. Your agents can look up any external site and reference information such as order details or data on another system.
+
+
+The Iframe app presents the external source as an iframe in your Zendesk Support instance. Your agents can access this page by clicking the Iframe app icon.
+
+
+The Iframe app supports websites that include the [Zendesk App Framework (ZAF) SDK](https://github.com/zendesk/zendesk_app_framework_sdk). Check out [Iframes in Apps](https://developer.zendesk.com/apps/docs/agent/iframes_in_apps) to learn more.
+
+
+See this [Iframe app article](https://support.zendesk.com/hc/en-us/articles/203660696) for more information on how to setup the app.
+
+
+For questions, please email [support@zendesk.com](mailto:support@zendesk.com).
+
+
+By enabling this app, You agree to the [Built by Zendesk Terms of Use](https://www.zendesk.com/company/built-by-zendesk-agmt/)."
+  - translation:
+      key: "txt.apps.iframe_app.app.installation_instructions"
+      title: "Installation Instructions for App: Iframe"
+      value: "To add the Iframe app to Zendesk Support:
+
+
+1. Sign in to your Zendesk Support account, then click the **Manage** icon at the bottom of the left nav bar.
+
+2. Select **Marketplace** from the Apps category.
+
+3. Search for \"\"Iframe\"\", then click the Iframe app icon.
+
+4. Click **Install App** in the upper right of the page.
+
+5. Configure the app as follows, then click **Install**:
+
+  * Iframe URL: Link to the page you want to display when agents click the Iframe app icon.
+
+  * Inactive Icon URL: Image that will be used when you are not interacting with the app.
+
+  * Hover Icon URL: Image that will be swapped out when an agent hovers over the image.
+
+  * Selected Icon URL: Image that will be used when an agent clicks the app icon.
+
+  * Title: Name for the application."  
+  - translation:
       key: "txt.apps.iframe_app.app.parameters.iframeURL.label"
       title: "iframe URL. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
       screenshot: "https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
