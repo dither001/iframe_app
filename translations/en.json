@@ -14,7 +14,7 @@
     },
     "installation_instructions": {
       "title": "Installation Instructions for App: Iframe",
-      "value": "To add the Iframe app to Zendesk Support:\n\n1. Sign in to your Zendesk Support account, then click the **Manage** icon at the bottom of the left nav bar.\n2. Select **Marketplace** from the Apps category.\n3. Search for \"Iframe\", then click the Iframe app icon.\n4. Click **Install App** in the upper right of the page.\n5. Configure the app as follows, then click **Install**:\n* Iframe URL: Link to the page you want to display when agents click the Iframe app icon.\n* Inactive Icon URL: Image that will be used when you are not interacting with the app.\n* Hover Icon URL: Image that will be swapped out when an agent hovers over the image.\n* Selected Icon URL: Image that will be used when an agent clicks the app icon.\n* Title: Name for the application."
+      "value": "Configure the app as follows, then click **Install**:\n* Iframe URL: Link to the page you want to display when agents click the Iframe app icon.\n* Inactive Icon URL: Image that will be used when you are not interacting with the app.\n* Hover Icon URL: Image that will be swapped out when an agent hovers over the image.\n* Selected Icon URL: Image that will be used when an agent clicks the app icon.\n* Title: Name for the application."
     },
     "parameters": {
       "iframeURL": {
