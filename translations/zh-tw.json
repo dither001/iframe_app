@@ -1,8 +1,12 @@
 {
   "app": {
+    "name": "iFrame",
+    "short_description": "內嵌任意網站至您的 Zendesk（以往稱之為「側欄圖示」app）",
+    "long_description": "*iframe* 是將一個網頁巢狀化於另一網頁中的 HTML 元件。Zendesk Iframe app 使您的代理可迅速導覽至外部網站，再返回其工單，而不中斷其工作流程。您的代理可在另一系統尋找任意外部網站和參考資訊，例如訂單詳情或資料。\n\nIframe app 以您 Zendesk Support 實體中的 iframe 呈現外部來源。您的代理可按 Iframe app 圖示來存取此頁面。\n\nIframe app 支援包含 [Zendesk App Framework (ZAF) SDK](https://github.com/zendesk/zendesk_app_framework_sdk) 的網站。查閱 [Iframes in Apps](https://developer.zendesk.com/apps/docs/agent/iframes_in_apps) 以瞭解更多。\n\n查閱此 [Iframe app 文章](https://support.zendesk.com/hc/en-us/articles/203660696)以瞭解更多關於如何設定 app 的資訊。\n\n若有疑問，請電郵 [support@zendesk.com](mailto:support@zendesk.com)。\n\n啟用此 app 即表示您同意 [Zendesk 自建使用條款](https://www.zendesk.com/company/built-by-zendesk-agmt/)。",
+    "installation_instructions": "按下文所示設定 app，然後按一下**安裝**：\n\n* Iframe URL：代理按 Iframe app 圖示時連結到您要顯示的頁面。\n* 非作用中圖示 URL：您不與 app 互動時使用的影像。\n* 游標暫留圖示 URL：代理游標暫留在影像上時被切換的影像。\n* 已選圖示 URL：代理按 app 圖示時使用的影像。\n* 標題：應用程式名稱。",
     "parameters": {
       "iframeURL": {
-        "label": "iframe URL"
+        "label": "iFrame URL"
       },
       "inactiveIconURL": {
         "label": "非作用中圖示 URL"
@@ -15,7 +19,7 @@
       },
       "zafSdkSupport": {
         "label": "啟用 ZAF SDK 支援？",
-        "helpText": "若 iframe 網站需 ZAF SDK 支援，核取此方塊。參閱我們開發者文檔中的「Iframes in Apps」（App 中的 Iframe）主題。"
+        "helpText": "若 iFrame 網站需 ZAF SDK 支援，核取此方塊。參閱我們開發者文檔中的「iFrame in Apps」（App 中的 iFrame）主題。"
       }
     },
     "description": "內嵌任意網站至您的 Zendesk（以往稱之為「側欄圖示」app）"
