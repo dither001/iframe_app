@@ -1,8 +1,12 @@
 {
   "app": {
+    "name": "iFrame",
+    "short_description": "将任意网站嵌入到您的 Zendesk 中（以前称为“侧栏图标”应用）",
+    "long_description": "*iframe* 就是可将一个网页嵌套在另一个网页中的 HTML 元素。Zendesk 的 Iframe 应用使您的专员能快速地导航到外部网站，然后回到其工单，而不会中断其工作流程。您的专员可在另一个系统中查找任意的外部网站和参考信息，例如订单详情或数据。\n\nIframe 应用将外部资源作为您 Zendesk Support 实例中的 iframe 呈现出来。您的专员可通过单击 Iframe 应用图标访问此页面。\n\nIframe 应用支持含有 [Zendesk App Framework (ZAF) SDK](https://github.com/zendesk/zendesk_app_framework_sdk) 的网站。如需了解更多，请查阅 [Iframes in Apps](https://developer.zendesk.com/apps/docs/agent/iframes_in_apps)。\n\n如需更多关于如何设置应用的信息，请查看此 [Iframe 应用文章](https://support.zendesk.com/hc/en-us/articles/203660696)。\n\n如有疑问，请电邮 [support@zendesk.com](mailto:support@zendesk.com)。\n\n启用此应用即表示您同意 [Zendesk 自建使用条款](https://www.zendesk.com/company/built-by-zendesk-agmt/)。",
+    "installation_instructions": "如下配置应用，然后单击**安装**：\n\n* Iframe URL：当专员单击 Iframe 应用图标时，链接到您想要显示的页面。\n* 非活动的图标 URL：当您没有在与应用互动时将使用的图像。\n* 悬停图标 URL：当专员的鼠标悬停在图像上时将被换掉的图像。\n* 选中图标 URL：当专员单击应用图标时将使用的图像。\n* 标题：应用程序的名称。",
     "parameters": {
       "iframeURL": {
-        "label": "iframe URL"
+        "label": "iFrame URL"
       },
       "inactiveIconURL": {
         "label": "非活动的图标 URL"
@@ -15,7 +19,7 @@
       },
       "zafSdkSupport": {
         "label": "启用 ZAF SDK 支持？",
-        "helpText": "如果使用 iframe 的网站需要 ZAF SDK 支持，请勾选此框。请查阅我们开发者文档中的“Iframes in Apps”（应用中的 Iframe）主题。"
+        "helpText": "如果使用 iFrame 的网站需要 ZAF SDK 支持，请勾选此框。请查阅我们开发者文档中的“iFrame in Apps”（应用中的 iFrame）主题。"
       }
     },
     "description": "将任意网站嵌入到您的 Zendesk 中（以前称为“侧栏图标”应用）"

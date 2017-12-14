@@ -1,5 +1,9 @@
 {
   "app": {
+    "name": "Iframe",
+    "short_description": "Embed any website in your Zendesk (formerly known as Sidebar Icon app)",
+    "long_description": "An *iframe* is an HTML element that lets you nest one web page in another web page. The Zendesk Iframe app lets your agents quickly navigate to an external website and then return to their tickets without interrupting their workflow. Your agents can look up any external site and reference information such as order details or data on another system.\n\nThe Iframe app presents the external source as an iframe in your Zendesk Support instance. Your agents can access this page by clicking the Iframe app icon.\n\nThe Iframe app supports websites that include the [Zendesk App Framework (ZAF) SDK](https://github.com/zendesk/zendesk_app_framework_sdk). Check out [Iframes in Apps](https://developer.zendesk.com/apps/docs/agent/iframes_in_apps) to learn more.\n\nSee this [Iframe app article](https://support.zendesk.com/hc/en-us/articles/203660696) for more information on how to setup the app.\n\nFor questions, please email [support@zendesk.com](mailto:support@zendesk.com).\n\nBy enabling this app, You agree to the [Built by Zendesk Terms of Use](https://www.zendesk.com/company/built-by-zendesk-agmt/).",
+    "installation_instructions": "Configure the app as follows, then click **Install**:\n\n* Iframe URL: Link to the page you want to display when agents click the Iframe app icon.\n* Inactive Icon URL: Image that will be used when you are not interacting with the app.\n* Hover Icon URL: Image that will be swapped out when an agent hovers over the image.\n* Selected Icon URL: Image that will be used when an agent clicks the app icon.\n* Title: Name for the application.",
     "parameters": {
       "iframeURL": {
         "label": "iframe URL"

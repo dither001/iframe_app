@@ -1,5 +1,9 @@
 {
   "app": {
+    "name": "Iframe",
+    "short_description": "Bygg inn et nettsted i Zendesk (tidligere kjent som Sidefeltikon-appen)",
+    "long_description": "En *Iframe* er et HTML-element som gjør det mulig å nøste et nettsted på en annen nettside. Med Zendesks Iframe-app kan kundekonsulentene raskt gå til et eksternt nettsted og deretter komme tilbake til sakene uten avbrudd i arbeidsflyten. På den måten kan kundekonsulentene gå til referanseopplysninger på et eksternt nettsted, f.eks. bestillingsopplysninger eller data, i et annet system. \n\nIframe-appen presenterer den eksterne kilden som en iFrame på en egen side i Zendesk Support. Kundekonsulentene kan få tilgang til denne siden ved å klikke på ikonet for Iframe-appen.\n\nIframe-appen støtter nettsteder som omfatter [Zendesk App Framework (ZAF) SDK](https://github.com/zendesk/zendesk_app_framework_sdk). Du kan finne ut mer om dette i [Iframes in Apps](https://developer.zendesk.com/apps/docs/agent/iframes_in_apps).\n\nLes denne artikkelen [Iframe app article](https://support.zendesk.com/hc/en-us/articles/203660696) for for å finne du hvordan du kan konfigurere appen.\n\nSend en e-post til [support@zendesk.com](mailto:support@zendesk.com) hvis du lurer på noe.\n\nVed å aktivere denne appen godtar du [Laget av Zendesk-brukervilkårene](https://www.zendesk.com/company/built-by-zendesk-agmt/).",
+    "installation_instructions": "Konfigurer appen på følgende måte, og klikk **Installer**:\n\n* URL for Iframe: Lenke til siden som skal vises når kundekonsulenter klikker på ikonet til Iframe-appen.\n* URL for inaktivt ikon: Bildet som skal brukes når du ikke bruker appen.\n* URL for pekerfølsomt ikon: Bildet som byttes ut når kundekonsulenten peker på bildet.\n* URL for valgt ikon: Bildet som brukes når kundekonsulenter klikker på app-ikonet.\n* Tittel: Navn på appen.",
     "parameters": {
       "iframeURL": {
         "label": "URL for iFrame"

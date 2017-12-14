@@ -1,8 +1,12 @@
 {
   "app": {
+    "name": "iFrame",
+    "short_description": "Einbetten einer Website in Ihren Zendesk (früher bekannt als „Seitenleisten-Symbol“)",
+    "long_description": "Ein *iFrame* ist ein HTML-Element, mit dem Sie eine Website in eine andere Website einbetten können. Über die iFrame-App von Zendesk können Agenten schnell zu einer externen Website navigieren und dann zu ihren Tickets zurückkehren, ohne den Workflow zu unterbrechen. Auf diese Weise können Agenten externe Site- und Referenzinformationen wie Bestelldetails oder Daten in einem anderen System nachschlagen.\n\nDie iFrame-App zeigt die externe Quelle als iFrame in Ihrer Zendesk Support-Instanz an. Agenten können durch Klicken auf das Symbol der iFrame-App auf diese Seite zugreifen.\n\nDie iFrame-App unterstützt Websites mit dem [Zendesk App Framework (ZAF) SDK](https://github.com/zendesk/zendesk_app_framework_sdk). Weitere Informationen finden Sie unter [iFrames in Apps](https://developer.zendesk.com/apps/docs/agent/iframes_in_apps).\n\n[Dieser Beitrag]https://support.zendesk.com/hc/en-us/articles/203660696) enthält Anweisungen zur Einrichtung der iFrame-App.\n\nWenn Sie Fragen haben, wenden Sie sich bitte an [support@zendesk.com](mailto:support@zendesk.com).\n\nDurch Aktivierung dieser App akzeptieren Sie die [Allgemeinen Geschäftsbedingungen für von Zendesk erstellte Apps](https://www.zendesk.com/company/built-by-zendesk-agmt/).",
+    "installation_instructions": "Konfigurieren Sie die App wie folgt und klicken Sie dann auf **Installieren**:\n\n* iFrame-URL: Link zur Seite, die erscheinen soll, wenn Agenten auf das Symbol der App „iFrame“ klicken.\n* URL für inaktives Symbol: Bild, das zu sehen ist, wenn keine Interaktion mit der App stattfindet.\n* URL für Hover-Symbol: Bild, das erscheint, wenn ein Agent mit der Maus über das Symbol fährt.\n* URL für ausgewähltes Symbol: Bild, das erscheint, wenn ein Agent auf das App-Symbol klickt.\n* Titel: Name der Anwendung.",
     "parameters": {
       "iframeURL": {
-        "label": "Iframe-URL"
+        "label": "iFrame-URL"
       },
       "inactiveIconURL": {
         "label": "URL für inaktives Symbol"
@@ -15,7 +19,7 @@
       },
       "zafSdkSupport": {
         "label": "ZAF-SDK-Support aktivieren?",
-        "helpText": "Markieren Sie dieses Kästchen, wenn die Website, die im Iframe erscheinen soll, ZAF-SDK-Support erfordert. Weitere Informationen finden Sie unter „Iframes in Apps“ in unserer Dokumentation für Entwickler."
+        "helpText": "Markieren Sie dieses Kästchen, wenn die Website, die im iFrame erscheinen soll, ZAF-SDK-Support erfordert. Weitere Informationen finden Sie unter „iFrames in Apps“ in unserer Dokumentation für Entwickler."
       }
     },
     "description": "Einbetten einer Website in Ihren Zendesk (früher bekannt als  „Seitenleisten-Symbol“)"
