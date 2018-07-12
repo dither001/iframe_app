@@ -1,13 +1,21 @@
 {
+  "defaultLocale": "en",
+  "private": false,
+  "frameworkVersion": "2.0",
+  "version": "2.0.0",
+
   "author": {
     "name": "Zendesk",
     "email": "support@zendesk.com"
   },
-  "location": "nav_bar",
-  "defaultLocale": "en",
-  "private": false,
-  "frameworkVersion": "1.0",
-  "version": "1.0.5",
+
+  "location": {
+    "support": {
+      "nav_bar": "assets/iframe.html",
+      "background": "assets/background.html"
+    }
+  },
+
   "parameters": [
     {
       "name": "iframeURL",
@@ -15,16 +23,9 @@
       "required": true
     },
     {
-      "name": "inactiveIconURL",
-      "type": "url"
-    },
-    {
-      "name": "hoverIconURL",
-      "type": "url"
-    },
-    {
-      "name": "selectedIconURL",
-      "type": "url"
+      "name": "icon",
+      "type": "text",
+      "default": "Iframe"
     },
     {
       "name": "zafSdkSupport",

@@ -1,0 +1,5 @@
+# For DEVELOPMENT only
+# More info: https://developer.zendesk.com/apps/docs/developer-guide/setup#defining-test-settings
+iframeURL: 'https://www.wikipedia.org?something=true&other=false#test'
+icon: 'W1'
+zafSdkSupport: true

@@ -1,2 +1,0 @@
-<header><h1>{{setting "title"}}</h1></header>
-<section class="iframe_container" data-main />
