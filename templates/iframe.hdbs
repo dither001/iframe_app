@@ -1,5 +1,0 @@
-{{#if (setting "zafSdkSupport")}}
-  {{iframe src}}
-{{else}}
-  <iframe src="{{src}}"/>
-{{/if}}
