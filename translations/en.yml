@@ -46,50 +46,49 @@ By enabling this app, You agree to the [Built by Zendesk Terms of Use](https://w
   - translation:
       key: "txt.apps.iframe_app.app.parameters.iframeURL.label"
       title: "iframe URL"
-      screenshot: "https://drive.google.com/open?id=17ADg5SU3yfTPzv0s8SSqFzml3fb40fVy"
+      screenshot: "https://drive.google.com/open?id=1G9VkNWqC4cgea8Yxy1h-d1QQI6W9sxMZ"
       value: "iframe URL"
   - translation:
       key: "txt.apps.iframe_app.app.parameters.inactiveIconURL.label"
       title: "Inactive Icon URL. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
       screenshot: "https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
       value: "Inactive icon URL"
-      obsolete: 18-5-2018
+      obsolete: "2018-05-18"
   - translation:
       key: "txt.apps.iframe_app.app.parameters.hoverIconURL.label"
       title: "Hover Icon URL. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
       screenshot: "https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
       value: "Hover icon URL"
-      obsolete: 18-5-2018
+      obsolete: "2018-05-18"
   - translation:
       key: "txt.apps.iframe_app.app.parameters.selectedIconURL.label"
       title: "Selected Icon URL. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
       screenshot: "https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
       value: "Selected icon URL"
-      obsolete: 18-5-2018
+      obsolete: "2018-05-18"
   - translation:
       key: "txt.apps.iframe_app.app.parameters.icon.label"
       title: "Selected Icon"
-      screenshot: "https://drive.google.com/open?id=17ADg5SU3yfTPzv0s8SSqFzml3fb40fVy"
+      screenshot: "https://drive.google.com/open?id=1G9VkNWqC4cgea8Yxy1h-d1QQI6W9sxMZ"
       value: "Icon characters or image name"
   - translation:
       key: "txt.apps.iframe_app.app.parameters.icon.helpText"
       title: "Icon help text"
-      screenshot: "https://drive.google.com/open?id=17ADg5SU3yfTPzv0s8SSqFzml3fb40fVy"
-      value: "The Iframe Icon will be the the first two (UTF8) characters provided (e.g. `WI` or `øå` or `✈☃`), [UTF8 Icons](https://www.utf8icons.com/). Alternatively, if an id is provided surrounded by colons `:`, it will use an icon from either [Icon Set 1](https://garden.zendesk.com/svg-icons/16px/) or [Icon Set 2](https://garden.zendesk.com/svg-icons/26px/) (e.g. `:zd-svg-icon-16-table-fill:` or `:zd-svg-icon-26-home-fill:`)."
+      screenshot: "https://drive.google.com/open?id=1G9VkNWqC4cgea8Yxy1h-d1QQI6W9sxMZ"
+      value: "The Iframe icon will be the the first two (UTF8) characters provided (e.g. `WI` or `øå` or `✈☃`), [UTF8 Icons](https://www.utf8icons.com/). Alternatively, if an id is provided surrounded by colons `:`, it will use an icon from either [Icon Set 1](https://garden.zendesk.com/svg-icons/16px/) or [Icon Set 2](https://garden.zendesk.com/svg-icons/26px/) (e.g. `:zd-svg-icon-16-table-fill:` or `:zd-svg-icon-26-home-fill:`)."
   - translation:
       key: "txt.apps.iframe_app.app.parameters.zafSdkSupport.label"
       title: "A checkbox to enable ZAF SDK support."
-      screenshot: "https://drive.google.com/open?id=17ADg5SU3yfTPzv0s8SSqFzml3fb40fVy"
+      screenshot: "https://drive.google.com/open?id=1G9VkNWqC4cgea8Yxy1h-d1QQI6W9sxMZ"
       value: "Enable ZAF SDK support?"
   - translation:
       key: "txt.apps.iframe_app.app.parameters.zafSdkSupport.helpText"
       title: "Help text to explain the ZAF SDK support option."
-      screenshot: "https://drive.google.com/open?id=17ADg5SU3yfTPzv0s8SSqFzml3fb40fVy"
+      screenshot: "https://drive.google.com/open?id=1G9VkNWqC4cgea8Yxy1h-d1QQI6W9sxMZ"
       value: "Check this box if the iframed website requires ZAF SDK support. See [Iframes in Apps](https://developer.zendesk.com/apps/docs/developer-guide/using_sdk)."
   - translation:
       key: "txt.apps.iframe_app.app.description"
       title: "Embed any website in your Zendesk (formerly known as Sidebar Icon app). See https://zendesk.box.com/s/0c5a122j1hdgbx4yu6bqlktdtl1qfu03"
       screenshot: "https://zendesk.box.com/s/0c5a122j1hdgbx4yu6bqlktdtl1qfu03"
       value: "Embed any website in your Zendesk (formerly known as Sidebar Icon app)"
-      obsolete: 18-5-2018
-
+      obsolete: "2018-05-18"
