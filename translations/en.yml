@@ -73,7 +73,7 @@ By enabling this app, You agree to the [Built by Zendesk Terms of Use](https://w
       value: "Icon characters or image name"
   - translation:
       key: "txt.apps.iframe_app.app.parameters.icon.helpText"
-      title: "Icon help text"
+      title: "Icon help text. Do not translate WI, the quotes, :(colon symbol), azd-svg-icon-16-table-fill and zd-svg-icon-26-home-fill."
       screenshot: "https://drive.google.com/open?id=1G9VkNWqC4cgea8Yxy1h-d1QQI6W9sxMZ"
       value: "The Iframe icon will be the first two (UTF8) characters provided (e.g. `WI` or `øå` or `✈☃`), [UTF8 Icons](https://www.utf8icons.com/). Alternatively, if an id is provided surrounded by colons `:`, it will use an icon from either [Icon Set 1](https://garden.zendesk.com/svg-icons/16px/) or [Icon Set 2](https://garden.zendesk.com/svg-icons/26px/) (e.g. `:zd-svg-icon-16-table-fill:` or `:zd-svg-icon-26-home-fill:`)."
   - translation:
