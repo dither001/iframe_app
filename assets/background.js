@@ -24,7 +24,7 @@ function setIcon(client, settings) {
     var iconName = match[1].replace('zd-svg-icon-16-', '').replace('zd-svg-icon-26-', '')
     client.set('iconSymbol', iconName)
   } else {
-    iconChars = settings.icon.trim().slice(0, 2).toUpperCase()
+    var iconChars = settings.icon.trim().slice(0, 2).toUpperCase()
     client.invoke('iconChars', iconChars)
   }
 }
