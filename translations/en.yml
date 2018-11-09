@@ -22,7 +22,7 @@ parts:
 The Iframe app presents the external source as an iframe in your Zendesk Support instance. Your agents can access this page by clicking the Iframe app icon.
 
 
-The Iframe app supports websites that include the [Zendesk App Framework (ZAF) SDK](https://github.com/zendesk/zendesk_app_framework_sdk). Check out [Iframes in Apps](https://developer.zendesk.com/apps/docs/agent/iframes_in_apps) to learn more.
+The Iframe app supports websites that include the [Zendesk App Framework (ZAF) SDK](https://github.com/zendesk/zendesk_app_framework_sdk). Check out [Iframes in Apps](https://developer.zendesk.com/apps/docs/core-api/client_api) to learn more.
 
 
 See this [Iframe app article](https://support.zendesk.com/hc/en-us/articles/203660696) for more information on how to setup the app.
