@@ -11,7 +11,8 @@ function buildUrl (currentUrl, newUrl) {
   }
   var settingsUrl = urlParser(newUrl)
   var newParams = [].concat(queryParameters(currentUrl), queryParameters(newUrl)).join('&')
-  return settingsUrl.protocol + '//' + settingsUrl.host + settingsUrl.pathname + '?' + newParams + settingsUrl.hash
+  var insertIEslash = settingsUrl.pathname.indexOf('/') === 0 ? '' : '/' // IE doesn't start pathname with a slash
+  return settingsUrl.protocol + '//' + settingsUrl.host + insertIEslash + settingsUrl.pathname + '?' + newParams + settingsUrl.hash
 }
 
 function urlParser (url) {
