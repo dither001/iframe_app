@@ -45,9 +45,9 @@ By enabling this app, You agree to the [Built by Zendesk Terms of Use](https://w
   * Title: Name for the application."
   - translation:
       key: "txt.apps.iframe_app.app.parameters.iframeURL.label"
-      title: "iframe URL"
+      title: "Iframe URL"
       screenshot: "https://drive.google.com/open?id=1G9VkNWqC4cgea8Yxy1h-d1QQI6W9sxMZ"
-      value: "iframe URL"
+      value: "Iframe URL"
   - translation:
       key: "txt.apps.iframe_app.app.parameters.inactiveIconURL.label"
       title: "Inactive Icon URL. See https://zendesk.box.com/s/bys22b6tldnopxuw0g3qhe3nhoaseqqo"
