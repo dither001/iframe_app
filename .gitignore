@@ -3,3 +3,4 @@ dist/
 node_modules/
 translations/
 !translations/en.yml
+.DS_Store
