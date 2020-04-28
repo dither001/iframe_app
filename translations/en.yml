@@ -32,6 +32,7 @@ For questions, please email [support@zendesk.com](mailto:support@zendesk.com).
 
 
 By enabling this app, You agree to the [Built by Zendesk Terms of Use](https://www.zendesk.com/company/built-by-zendesk-agmt/)."
+      hidden: true
   - translation:
       key: "txt.apps.iframe_app.app.installation_instructions"
       title: "Installation Instructions for App: Iframe"
@@ -43,6 +44,7 @@ By enabling this app, You agree to the [Built by Zendesk Terms of Use](https://w
   * Icon: Text that will be used for the app icon.
 
   * Title: Name for the application."
+      hidden: true
   - translation:
       key: "txt.apps.iframe_app.app.parameters.iframeURL.label"
       title: "Iframe URL"
